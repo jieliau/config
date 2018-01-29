@@ -1,0 +1,10 @@
+set hlsearch
+set backspace=2
+set autoindent
+set ruler
+set showmode
+set bg=dark
+set tabstop=4
+set shiftwidth=4
+set expandtab
+syntax on
